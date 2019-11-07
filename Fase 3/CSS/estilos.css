@@ -1,0 +1,28 @@
+
+nav, .CONTENIDOS, footer, article {
+max-width: 93%;
+margin: auto;
+
+}
+
+
+<nav{
+background-color: #BF2F0B 
+
+}
+
+.CONTENIDOS{
+background-color: #BF2F0B
+
+}
+
+footer{
+	background-color: #BF0B2C
+	
+	}
+	
+	article{
+		background-color: #6161B8
+		display: inline-block; 
+		width: 28%;
+	}
